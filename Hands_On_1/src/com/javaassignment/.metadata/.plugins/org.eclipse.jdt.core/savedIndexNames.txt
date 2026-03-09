@@ -1,0 +1,1 @@
+INDEX VERSION 1.134+D:\Expleo Hands On\Hands_On_1\src\com\javaassignment\.metadata\.plugins\org.eclipse.jdt.core
